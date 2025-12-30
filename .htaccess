@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Base directory - SESUAIKAN dengan nama folder Anda
+    RewriteBase /lab11_php_oop/
+    
+    # Jika file/folder fisik ada, jangan rewrite
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    
+    # Redirect semua request ke index.php
+    RewriteRule ^(.*)$ index.php [QSA,L]
+</IfModule>
+
+# Security - Prevent directory listing
+Options -Indexes
