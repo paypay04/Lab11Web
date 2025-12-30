@@ -1,1 +1,0 @@
-<?php echo "TEST: File bisa diakses"; ?>
