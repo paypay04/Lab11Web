@@ -37,4 +37,24 @@
 
 <img width="619" height="186" alt="image" src="https://github.com/user-attachments/assets/d55842de-bff9-4c79-a3a5-f9293673affb" />
 
-# Terima Kasih Sudah Melihat
+---
+
+# Praktikum 12
+
+**Menu profile**
+
+<img width="1335" height="882" alt="image" src="https://github.com/user-attachments/assets/2af76895-4277-4183-936f-bf4875afc684" />
+
+**Implementasi logika enkrpisi**
+
+Saya membuat Tabel baru(users) untuk password yang sudah di hash, menggunakan data dari Tabel sebelumnya(user)
+
+**Tabel Lama**
+
+<img width="592" height="79" alt="image" src="https://github.com/user-attachments/assets/22e01dd3-11f7-4465-982b-48e2c226aa79" />
+
+**Tabel Baru**
+
+<img width="938" height="77" alt="image" src="https://github.com/user-attachments/assets/64fe4110-496c-4291-9a00-bd79e11491bd" />
+
+# Terimaksih Sudah Melihat
